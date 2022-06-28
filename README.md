@@ -8,3 +8,5 @@
 # How to check for git and git versions
 ## git --version
  --- git version 2.37.0.windows.1
+# how to pull a repo to an offline machine
+1st. with VScode goto view>terminal
