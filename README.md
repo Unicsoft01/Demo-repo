@@ -76,3 +76,11 @@ DELL@DESKTOP-Q2PCHUC MINGW64 ~/.ssh
 ## git add .
 
 # how to commit Changes to be committed: 
+## git commit -m "Added index.html to my repos" -m "everything here goes to description of my commit" [-m means message, the firts is title and second is descripion]
+
+# NOTE: all changes are now on local git and ready to be pushed to remote git (github)
+
+# make changes available remote
+## git push origin main
+
+# ==========================STARTING GIT FORM A LOCAL ENVIRONMENT============
