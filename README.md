@@ -4,3 +4,7 @@
 ## commit -> save your files in giy
 ## pust -> upload your git commits to a remote repo
 ## pull -> download changes form a remote repo to a local machine
+
+# How to check for git and git versions
+## git --version
+ --- git version 2.37.0.windows.1
